@@ -26,6 +26,6 @@
 ## About App
 ***fully responsive***
 > emoji icon is disabled because i'm not able to implement it
-> but there is a quick fix i made for time being i.e user can use kwyboard character
+> but there is a quick fix i made for time being i.e user can use keyboard character
 > to sent emoji :grimacing:
 
