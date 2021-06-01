@@ -1,7 +1,7 @@
 # minor-project
 
 ## Active Link : 
-:point_right: [Instant Chat](https://pensive-colden-1515cc.netlify.app/)
+:point_right: [Instant Chat](https://instant-chat-app.netlify.app/)
 
 ## Group Chat App   :mailbox:
 
